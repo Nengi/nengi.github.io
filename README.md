@@ -1,13 +1,25 @@
-## Welcome
-
-![image of me](https://user-images.githubusercontent.com/7488991/67335244-ffa36880-f4e8-11e9-872e-8649066a5038.JPG)
-
-I am a Data Science generalist, intrested
 
 
-## Past Projects
+# Hello and Welcome!
 
-## Current and Future Projects
+
+
+# Work Profile
+
+## Statistical Analysis
+  + [Panel Data Analysis of The Right-To-Carry Law on Crime Rate](https://rpubs.com/Nengi/panelregression)
+  + [Non-Parametric Analysis of Eye Infection Data](https://rpubs.com/Nengi/non-parametric)
+  
+## Machine Learning
+  + Creation of Synthetic Sonic Log Models for the Midland Basin
+  + Mobile Advertisment Prediction
+  
+## Data Visualization
+  + Analysis of Crime in Chicago
+  
+## Big Data
+
+My contact information is nengiharry@gmail.com
 
 
 
