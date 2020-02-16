@@ -1,7 +1,9 @@
 # Hello and Welcome!
 
-My name is Nengi Harry, I chose to pursue a career in Data Science with the goal of utilizing analytics as a business consulting tool.\
-The intent of this portfolio is to highlight my ability to synthesize data, and present insights gained for both technical and non-technical audiences.\
+My name is Nengi Harry, I chose to pursue a career in Data Science with the goal of utilizing analytics as a business consulting tool.
+
+The intent of this portfolio is to highlight my ability to synthesize data, and present insights gained for both technical and non-technical audiences.
+
 When I am not working, I enjoy watching and implementing “DIY” videos and projects with my five-year-old daughter.
 
 
