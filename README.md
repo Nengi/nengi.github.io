@@ -1,5 +1,3 @@
-![profilephoto](https://user-images.githubusercontent.com/7488991/74596647-a7ecb800-5017-11ea-9894-8760e212b099.JPG)
-
 # Hello and Welcome!
 
 My name is Nengi Harry, I chose to pursue a career in Data Science with the goal of utilizing analytics as a business consulting tool. \
