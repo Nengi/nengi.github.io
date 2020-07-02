@@ -16,7 +16,7 @@ When I am not working, I enjoy watching and implementing “DIY” videos and pr
 
 
 ### Machine Learning
-  + [Creation of Synthetic Sonic Log Models for the Midland Basin](https://nengi.github.io/Sonic-Log-Prediction)
+  + [Creation of Synthetic Sonic Log Models for the Midland Basin](https://github.com/Nengi/Sonic-Log-Prediction/blob/master/Sonic_Log_Prediction.ipynb)
   + [Mobile Advertisment Prediction](https://github.com/Nengi/Mobile-Advertisment-Prediction/blob/master/Mobile%20Advertising%20Prediction.pdf)
   
 ### Data Visualization
