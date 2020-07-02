@@ -20,7 +20,7 @@ When I am not working, I enjoy watching and implementing “DIY” videos and pr
   + [Mobile Advertisment Prediction](https://github.com/Nengi/Mobile-Advertisment-Prediction/blob/master/Mobile%20Advertising%20Prediction.pdf)
   
 ### Data Visualization
-  + [Analysis of Crime in Chicago](https://public.tableau.com/views/ChicagoCrimeData_15937064451990/ChicagoCrimeDashboard?:language=en&:display_count=y&publish=yes&:origin=viz_share_link)
+  + [Visualization of Crime in Chicago](https://public.tableau.com/views/ChicagoCrimeData_15937064451990/ChicagoCrimeDashboard?:language=en&:display_count=y&publish=yes&:origin=viz_share_link)
   
 
 
