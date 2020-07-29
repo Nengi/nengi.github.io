@@ -17,7 +17,7 @@ When I am not working, I enjoy watching and implementing “DIY” videos and pr
 
 ### Machine Learning
   + [Creation of Synthetic Sonic Log Models for the Midland Basin](https://github.com/Nengi/Sonic-Log-Prediction/blob/master/Sonic_Log_Prediction.ipynb)
-  + [Mobile Advertisment Prediction](https://github.com/Nengi/Mobile-Advertisment-Prediction/blob/master/Mobile%20Advertising%20Prediction.pdf)
+  + [Mobile Advertisment Prediction](https://github.com/Nengi/Mobile-Advertisment-Prediction/blob/master/mobile%20advert%20prediction.pdf)
   
 ### Data Visualization
   + [Visualization of Crime in Chicago with Tableau](https://public.tableau.com/views/ChicagoCrimeData_15937064451990/ChicagoCrimeDashboard?:language=en&:display_count=y&publish=yes&:origin=viz_share_link)
